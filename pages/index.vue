@@ -5,7 +5,7 @@
           <div class="container">
             <ul>
               <li class="is-active">
-                <nuxt-link to="/">
+                <nuxt-link to="/ ">
                   <img src="https://image.flaticon.com/icons/png/512/818/818649.png" width="32" height="32">
                   &emsp;
                   MainPage
@@ -33,9 +33,16 @@
               </li>
             </ul>
           </div>
+          <a href="http://www.naver.com" class="navbar-item">
+            <img src="https://s3.amazonaws.com/freebiesupply/large/2x/naver-logo-transparent.png" art="logo">
+          </a>
+          <a href="https://www.google.co.kr" class="navbar-item">
+            <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" art="logo">
+          </a>
         </nav>
-
+        
         index page
       </div>
     </nav>
+    
 </template>
