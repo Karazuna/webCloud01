@@ -4,8 +4,8 @@
         <nav class="tabs">
           <div class="container">
             <ul>
-              <li class="is-active">
-                <nuxt-link to="https://www.rumen-scholar.tk/">
+              <li>
+                <nuxt-link to="/ ">
                   <img src="https://image.flaticon.com/icons/png/512/818/818649.png" width="32" height="32">
                   &emsp;
                   MainPage
@@ -15,7 +15,7 @@
               &emsp;
 
               <li>
-                <nuxt-link to="#2">
+                <nuxt-link to="/project">
                   <img src="https://image.flaticon.com/icons/png/512/856/856018.png" width="32" height="32">
                   &emsp;
                   ProjectList
@@ -24,17 +24,17 @@
 
               &emsp;
 
-              <li>
-                <nuxt-link to="#3">
+              <li class="is-active">
+                <nuxt-link to="/webinfo">
                   <img src="https://image.flaticon.com/icons/svg/788/788893.svg" width="32" height="32">
                   &emsp;
                   WebInfo
                 </nuxt-link>
               </li>
-
             </ul>
           </div>
         </nav>
+        website page
       </div>
     </nav>
 </template>
