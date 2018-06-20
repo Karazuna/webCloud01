@@ -64,7 +64,7 @@
  <section class="section">
     <div class="container">
       <div align="center">
-      <h1 class="title">General Information for Cheol-Eon &emsp;&emsp;&emsp;&emsp;&emsp;<img src="~assets/cheoleon.jpg" align="middle" width="177" height="236"></h1>
+      <h1 class="title">General Information for Cheol-Eon Kim &emsp;&emsp;&emsp;&emsp;&emsp;<img src="~assets/cheoleon.jpg" align="middle" width="177" height="236"></h1>
       </div>
       <br><br><br>
       <h3 class="subtitle">
