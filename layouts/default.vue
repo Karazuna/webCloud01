@@ -10,5 +10,10 @@
       </div>
     </section>
     <nuxt/>
+    <footer class="footer has-text-centered">
+      <div>
+        ⓒ 2018 [Cheol-Eon Kim] all rights reserved.
+      </div>
+    </footer>
   </div>
 </template>

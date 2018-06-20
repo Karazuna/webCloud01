@@ -39,7 +39,7 @@
         </div>
       </nav>
       </div>
-      <div align=center>
+      <!-- <div align=center>
         <br>
         <a href="https://www.google.co.kr">
               <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="128" height="128">
@@ -58,7 +58,23 @@
         <input type=submit name=btnG value="NAVER 검색" />
       </form> 
       <br>
-      </div>
+      </div> -->
+
+      <section>
+        <br>
+        <div class=subtitle align=center>
+        Mokwon Universty
+        <br>
+        Division of Information and Communication Convergence Engineering
+        <br><br>
+        ~Cheol-Eon Kim Making~
+        <br><br>
+        [Webpage Version and Commit-Log : Github]
+        <br>
+        <a href="https://github.com/Karazuna/webCloud01">https://github.com/Karazuna/webCloud01</a>
+        </div>
+        <br>
+      </section>
 
  
 
