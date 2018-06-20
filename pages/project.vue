@@ -25,7 +25,7 @@
               &emsp;
 
               <li>
-                <nuxt-link to="#3">
+                <nuxt-link to="https://www.rumen-scholar.tk/webinfo">
                   <img src="https://image.flaticon.com/icons/svg/788/788893.svg" width="32" height="32">
                   &emsp;
                   WebInfo

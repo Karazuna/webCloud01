@@ -1,3 +1,3 @@
 git add --all
-git commit -m "2018-06-05, FETAL ERROR - TEST PUSH"
+git commit -m "2018-06-20, navbar"
 git push -u origin master

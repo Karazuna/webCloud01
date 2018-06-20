@@ -15,7 +15,7 @@
               &emsp;
 
               <li>
-                <nuxt-link to="https://www.rumen-scholar.tk/project">
+                <nuxt-link to="#2">
                   <img src="https://image.flaticon.com/icons/png/512/856/856018.png" width="32" height="32">
                   &emsp;
                   ProjectList
