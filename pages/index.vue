@@ -33,25 +33,34 @@
                     WebInfo
                   </nuxt-link>
                 </li>
-
-                &emsp;&emsp;&emsp;&emsp;&emsp;
-
-                <form method=get action="http://www.naver.com/search" target="_blank">
-                  <input type=text name=q size=25 maxlength=255 value="" /> <!-- 구글 검색 입력 창 -->
-                  <input type=submit name=btnG value="Google 검색" /> <!-- 검색 버튼 -->
-                </form> 
               </ul>
             </div>
-            <a href="http://www.naver.com" class="navbar-item">
-              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/naver-logo-transparent.png" art="logo">
-            </a>
-            <a href="https://www.google.co.kr" class="navbar-item">
-              <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" art="logo">
-            </a>
           </nav>
         </div>
       </nav>
       </div>
+      <div align=center>
+        <br>
+        <a href="https://www.google.co.kr">
+              <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="128" height="128">
+            </a> 
+      <form method=get action="http://www.google.com/search" target="blank">
+        <input type=text name=q size=25 maxlength=255 value="" />
+        <input type=submit name=btnG value="Google 검색" />
+      </form>
+                 
+      <br><br>
+      <a href="http://www.naver.com" class="item">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/naver-logo-transparent.png" width="128" height="128">
+            </a>
+      <form method=get action="https://search.naver.com/search.naver?" target="blank"> 
+        <input type=text name=query size=25 maxlength=255 value="" /> 
+        <input type=submit name=btnG value="NAVER 검색" />
+      </form> 
+      <br>
+      </div>
+
+ 
  <section class="section">
     <div class="container">
       <div align="center">
