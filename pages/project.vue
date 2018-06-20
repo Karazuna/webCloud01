@@ -1,11 +1,13 @@
 <template>
+<section>
+  <div>
     <nav class="navbar is-warning">
       <div class="hero-foot">
         <nav class="tabs">
           <div class="container">
             <ul>
               <li>
-                <nuxt-link to="/ ">
+                <nuxt-link to="/">
                   <img src="https://image.flaticon.com/icons/png/512/818/818649.png" width="32" height="32">
                   &emsp;
                   MainPage
@@ -43,4 +45,6 @@
         project page
       </div>
     </nav>
+  </div>
+</section>
 </template>
