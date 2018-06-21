@@ -63,7 +63,6 @@
       <article class="message is-primary">
         <div class="message-header">
           <p>4 학년</p>
-          <button class="delete" aria-label="delete"></button>
         </div>
         <div class="message-body">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
@@ -73,7 +72,6 @@
       <article class="message is-danger">
         <div class="message-header">
           <p>3 학년</p>
-          <button class="delete" aria-label="delete"></button>
         </div>
         <div class="message-body">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
@@ -83,20 +81,22 @@
       <article class="message is-success">
         <div class="message-header">
           <p>2 학년</p>
-          <button class="delete" aria-label="delete"></button>
         </div>
         <div class="message-body">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+          <ul class="menu-list">
+            <li><a>test1</a></li>
+            <li>test2</li>
+          </ul>
+          <strong>Pellentesque risus mi</strong>
         </div>
       </article>
 
       <article class="message is-link">
         <div class="message-header">
           <p>1 학년</p>
-          <button class="delete" aria-label="delete"></button>
         </div>
         <div class="message-body">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+          <strong>업데이트 준비중</strong>
         </div>
       </article>
 
