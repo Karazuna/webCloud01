@@ -10,8 +10,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'my cloud website #01 prof - using Nuxt.js' }
     ],
     link: [
-      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css' },
-      { rel: 'shorcut icon', href: './static/201651.svg'}
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css' }
     ],
     script: [{ src: 'https://use.fontawesome.com/releases/v5.0.7/js/all.js', defer: '' }]
   },
